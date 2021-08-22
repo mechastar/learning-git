@@ -1,0 +1,16 @@
+
+
+===========
+GIT COMMAND
+===========
+
+(1) git config --global user.name Rahul
+(2) git config --global user.email RahulKumar70rk@gmail.com
+(3) ls -lart
+(4) git status
+(5) Untracked===> Unmodified===> Modified===> Staged
+(6) git add file_name ==> to move file from untracked state to tracked state so that commit can be done
+(7) git commit ===> to save it
+(8) touch filename==>to create a new file
+(9) git add -A  =>> to move all file from untracked state to tracked state so that commit can be done
+(10)git commit -m "Added these files"==> message to commit
